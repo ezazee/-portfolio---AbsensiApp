@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468618427073",
+    "project_id": "presence-4a01f",
+    "storage_bucket": "presence-4a01f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468618427073:android:34562cfe1e990047ddf240",
+        "android_client_info": {
+          "package_name": "com.ezazeeproject.presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468618427073-aiddval86ooffmcorbsq9aj5jecnpoj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhbD3Wh6MLOYgIeZJLnrawi0WUsobeyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468618427073-aiddval86ooffmcorbsq9aj5jecnpoj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
